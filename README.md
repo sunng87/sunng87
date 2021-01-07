@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Metrics](https://github.com/sunng87/sunng87/blob/master/github-metrics.svg)
+![Metrics](https://github.com/sunng87/sunng87/blob/main/github-metrics.svg)
 
 <!--
 **sunng87/sunng87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
