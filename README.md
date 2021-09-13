@@ -2,6 +2,8 @@
 
 ![Metrics](https://github.com/sunng87/sunng87/blob/main/github-metrics.svg)
 
+[![Sunng87's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunng87)](https://github.com/sunng87)
+
 <!--
 **sunng87/sunng87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
