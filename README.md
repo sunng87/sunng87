@@ -13,7 +13,7 @@ You may want to checkout my projects:
 #### Rust Projects
 
 * [handlebars-rust](https://github.com/sunng87/handlebars-rust) Template engine for Rust, using the handlebars template lanaguage
-* [metriki](https://github.com/sunng87/metriki) Drop-wizard metrics ported to Rust
+* [metriki](https://github.com/sunng87/metriki) Dropwizard metrics ported to Rust
 * [cargo-release](https://github.com/crate-ci/cargo-release) `cargo release`
 * [rustmann](https://github.com/sunng87/rustmann) riemann client in Rust and Tokio
 
