@@ -16,6 +16,7 @@ You may want to checkout my projects:
 * [metriki](https://github.com/sunng87/metriki) Dropwizard metrics ported to Rust
 * [cargo-release](https://github.com/crate-ci/cargo-release) `cargo release`
 * [rustmann](https://github.com/sunng87/rustmann) riemann client in Rust and Tokio
+* [geohash](https://github.com/georust/geohash) geohash implemented in Rust
 
 ![Metrics](https://github.com/sunng87/sunng87/blob/main/github-metrics.svg)
 
