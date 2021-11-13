@@ -8,6 +8,7 @@ You may want to checkout my projects:
 * [diehard](https://github.com/sunng87/diehard) Resillience library: retry, circuit breaker, rate limit, etc.
 * [stavka](https://github.com/sunng87/stavka) Configuration manager
 * [ring-jetty9-adapter](https://github.com/sunng87/ring-jetty9-adapter) An enhanced jetty adapter for Ring, with http/2 and websocket support built-in
+* [link](https://github.com/clojure-link/link) Thin Netty wrapper for Clojure
 * [rigui](https://github.com/sunng87/rigui) Timing-wheels based timer for clojure
 
 #### Rust Projects
