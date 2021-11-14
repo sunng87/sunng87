@@ -21,6 +21,10 @@ You may want to checkout my projects:
 
 #### [Sponse me on liberapay ☕️](https://en.liberapay.com/Sunng/)
 
+Donation is welcomed if you find my projects helpful. 
+
+---
+
 ![Metrics](https://github.com/sunng87/sunng87/blob/main/github-metrics.svg)
 
 [![Sunng87's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunng87)](https://github.com/sunng87)
