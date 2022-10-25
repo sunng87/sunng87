@@ -18,6 +18,7 @@ You may want to checkout my projects:
 * [cargo-release](https://github.com/crate-ci/cargo-release) `cargo release`
 * [rustmann](https://github.com/sunng87/rustmann) riemann client in Rust and Tokio
 * [geohash](https://github.com/georust/geohash) geohash implemented in Rust
+* [pgwire](https://github.com/sunng87/pgwire) Postgres wire protocol implemented as a rust library
 
 #### [Sponse me on liberapay ☕️](https://en.liberapay.com/Sunng/)
 
@@ -26,20 +27,3 @@ Donation is welcomed if you find my projects helpful.
 ---
 
 ![Metrics](https://github.com/sunng87/sunng87/blob/main/github-metrics.svg)
-
-[![Sunng87's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunng87)](https://github.com/sunng87)
-
-<!--
-**sunng87/sunng87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
