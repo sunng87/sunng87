@@ -22,7 +22,7 @@ You may want to checkout my projects:
 
 #### Sponse me
 
-- [Liberapay]((https://en.liberapay.com/Sunng/)
+- [Liberapay](https://en.liberapay.com/Sunng/)
 - [Github Sponsor](https://github.com/sunng87)
 - [By me a coffee](https://buymeacoffee/Sunng/)
 
