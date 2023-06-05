@@ -20,9 +20,11 @@ You may want to checkout my projects:
 * [geohash](https://github.com/georust/geohash) geohash implemented in Rust
 * [pgwire](https://github.com/sunng87/pgwire) Postgres wire protocol implemented as a rust library
 
-#### [Sponse me on liberapay ☕️](https://en.liberapay.com/Sunng/)
+#### Sponse me
 
-Donation is welcomed if you find my projects helpful. 
+- [Liberapay]((https://en.liberapay.com/Sunng/)
+- [Github Sponsor](https://github.com/sunng87)
+- [By me a coffee](https://buymeacoffee/Sunng/)
 
 ---
 
