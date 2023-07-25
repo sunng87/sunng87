@@ -24,7 +24,6 @@ You may want to checkout my projects:
 
 - [Liberapay](https://en.liberapay.com/Sunng/)
 - [Github Sponsor](https://github.com/sunng87)
-- [Buy me a coffee](https://buymeacoffee/Sunng/)
 
 ---
 
