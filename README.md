@@ -19,6 +19,7 @@ You may want to checkout my projects:
 * [rustmann](https://github.com/sunng87/rustmann) riemann client in Rust and Tokio
 * [geohash](https://github.com/georust/geohash) geohash implemented in Rust
 * [pgwire](https://github.com/sunng87/pgwire) Postgres wire protocol implemented as a rust library
+* [datafusion-postgres](https://github.com/sunng87/datafusion-postgres) Postgres wire protocol frontend for Apache DataFusion
 
 #### Sponse me
 
