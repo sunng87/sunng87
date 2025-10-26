@@ -26,6 +26,3 @@ You may want to checkout my projects:
 - [Liberapay](https://en.liberapay.com/Sunng/)
 - [Github Sponsor](https://github.com/sunng87)
 
----
-
-![Metrics](https://github.com/sunng87/sunng87/blob/main/github-metrics.svg)
